@@ -15,5 +15,5 @@ this project need that `docker` and `docker-compose` installed, also you need a 
 
 #### To do
 
-1. Automate the domain change (indicated in step 1 of [How to use](#### How to use))
+1. Automate the domain change (indicated in step 1 of [How to use](#how-to-use))
 2. some other stuff that i'm thinking about 🤔
